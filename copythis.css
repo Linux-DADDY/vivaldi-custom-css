@@ -1,0 +1,10 @@
+/* Added Lines */
+
+.window-buttongroup {
+  display: none !important;
+}
+.linux #tabs-container:not(.none).top {
+  padding-right: 10px;
+}
+
+/* End lines */
