@@ -7,4 +7,10 @@
   padding-right: 10px;
 }
 
+#browser.normal #header,
+#browser.normal #header .vivaldi,
+#browser.normal #header .window-buttongroup button {
+    height: 30px !important;
+}
+
 /* End lines */
